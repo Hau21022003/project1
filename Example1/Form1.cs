@@ -9,6 +9,8 @@
         // cap nhat nhanh con lần 4
 
         // cap nhat tren gitkraken
+
+        // cap nhat nhanh con gitraken
         public Form1()
         {
             InitializeComponent();
