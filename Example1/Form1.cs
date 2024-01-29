@@ -7,6 +7,8 @@
         // cập nhật nhánh con lần 2
         // cap nhat nhanh con lần 3
         // cap nhat nhanh con lần 4
+
+        // cap nhat tren gitkraken
         public Form1()
         {
             InitializeComponent();
