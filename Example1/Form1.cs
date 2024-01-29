@@ -4,6 +4,7 @@
     {
         // cập nhật lần 1
         // Cập nhật nhánh con
+        // cập nhật nhánh con lần 2
         public Form1()
         {
             InitializeComponent();
